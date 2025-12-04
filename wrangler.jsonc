@@ -30,6 +30,9 @@
 	},
 	"observability": {
 		"enabled": true
+	},
+	{
+	  "route": "cap-worker.searobber.workers.dev/*"
 	}
 	/**
 	 * Smart Placement
